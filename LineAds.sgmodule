@@ -1,5 +1,5 @@
-#!name=Remove LINE ADs
-#!desc=刪掉 LINE 惱人的廣告 v20230711.01 - 需啟用 MitM over HTTP/2
+#!name=Remove LINE ADs update 2023/08/06
+#!desc=刪掉 LINE 惱人的廣告 v20230711.01 - 需啟用 MitM over HTTP/2 update 2023/08/06
 #!system=ios
 
 [Rule]
