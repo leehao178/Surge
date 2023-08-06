@@ -18,6 +18,10 @@ URL-REGEX,^https:\/\/crs-event\.line\.me\/v\d\/imp,REJECT-DROP
 URL-REGEX,^https:\/\/obs\.line-scdn\.net\/0h.+\/(o|m)\d+x\d+$,REJECT-DROP
 URL-REGEX,^https:\/\/obs\.line-scdn\.net\/0h.+\/\d+p\.mp4$,REJECT-DROP
 URL-REGEX,^https:\/\/obs\.line-scdn\.net\/r\/linecrs\/.+\/m180x180$,REJECT-DROP
+
+# 2023/08/06 update
+URL-REGEX,^https:\/\/obs\.line-scdn\.net\/.+\/m1200x628$,REJECT-DROP
+
 URL-REGEX,^https:\/\/d\.line-scdn\.net\/lcp-prod-photo\/20.+\.(jpg|jpeg|png),REJECT
 URL-REGEX,^https:\/\/cix\.line-apps\.com\/R4\?,REJECT
 URL-REGEX,^https:\/\/scdn\.line-apps\.com\/appresources\/moretab\/list\.json,REJECT
